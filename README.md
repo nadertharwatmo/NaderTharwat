@@ -20,7 +20,7 @@ Short description of the project (what it does, why you built it).
 ## 🚦 Setup & Usage
 ```bash
 # clone the repo
-git clone https://github.com/your-username/project-name
+git clone [https://github.com/your-username/project-name](https://github.com/nadertharwatmo/NaderTharwat)
 
 # run the app / pipeline / script
 docker-compose up
